@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1MV-MuZR2o7YZBR9ktbAvn8wgCJ6FK54o/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://github.com/RishavGaur/static/blob/main/animate.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavgaur&label=Profile%20views&color=0e75b6&style=flat" alt="rishavgaur" /> </p>
 
